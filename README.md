@@ -9,7 +9,8 @@ Flowgen0794/Flowgen0794 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Flowgen0794's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowgen0794&show_icons=true&theme=radical)(https://github.com/Flowgen0794/Machine-Learning-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flowgen0794&repo=Machine-Learning=Project)](https://github.com/Flowgen0794/Machine-Learning-Project)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowgen0794&layout=compact)](https://github.com/Flowgen0794/Machine-Learning-Project)
-[![Flowgen0794's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flowgen0794)](https://github.com/Flowgen0794/Machine-Learning-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/api?username=Flowgen0794&repo=Machine-Learning=Project)](https://github.com/Flowgen0794/Machine-Learning-Project)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=Flowgen0794&layout=compact)](https://github.com/Flowgen0794/Machine-Learning-Project)
+[![Flowgen0794's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flowgen0794)](https://github.com/anuraghazra/github-readme-stats)
+
 
