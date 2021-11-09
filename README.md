@@ -9,6 +9,7 @@ Flowgen0794/Flowgen0794 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Flowgen0794's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowgen0794&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
