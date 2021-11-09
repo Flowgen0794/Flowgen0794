@@ -9,4 +9,4 @@ Flowgen0794/Flowgen0794 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Flowgen0794's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowgen0794&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flowgen0794&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flowgen0794&repo=github-readme-stats)]api/pin?username=anuraghazra&repo=github-readme-stats
